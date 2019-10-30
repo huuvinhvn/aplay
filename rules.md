@@ -1,4 +1,4 @@
-![A-Play Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
+![A-Play Community](https://i.imgur.com/zI3AtQA.jpg)
 
 # NỘI QUY NHÓM A-PLAY COMMUNITY
 
