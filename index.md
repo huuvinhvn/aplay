@@ -1,6 +1,6 @@
 # A-Play Community
 
-Những điều mà bạn cần biết nếu muốn tham gia [Aplay Community](https://www.facebook.com/groups/aplay.community)
+Những điều mà bạn cần biết nếu muốn tham gia [A-Play Community](https://www.facebook.com/groups/aplay.community)
 
 ## Liên kết
 
