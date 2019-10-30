@@ -9,7 +9,7 @@
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
 - Vừa tham gia Facebook được 3 tháng khi xin vào nhóm.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
-- Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
+- Tài khoản không có tên hiển thị (Facebook ma), không có tên họ rõ ràng hoặc tên sử dụng ký tự đặc biệt.
 -  Tài khoản không có avatar hiển thị (Facebook ma) hoặc avatar không phải người thật.
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
@@ -30,7 +30,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [A-Play Community](https://www.google.com.vn/search?q=aplay) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
+Nhóm được quản lý bởi [A-Play Community](https://www.google.com.vn/search?q=aplay) nên ưu tiên chủ đề về chia sẻ code Aplay, bóng đá, phim, v.v... Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
 Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
