@@ -1,4 +1,4 @@
-# Danh sách #hashtag trên ZalTV Community
+# Danh sách #hashtag trên A-Play Community
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [ZalTV Community](https://www.facebook.com/groups/zaltv.community/) yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
