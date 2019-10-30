@@ -1,6 +1,6 @@
-![ZalTV Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
+![A-Play Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
 
-# NỘI QUY NHÓM ZALTV COMMUNITY
+# NỘI QUY NHÓM A-PLAY COMMUNITY
 
 Để tránh việc bị **Kick**, **Ban** hoặc **bị xóa bài** mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
 
@@ -30,7 +30,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [ZalTV Community](https://www.google.com.vn/search?q=zaltv) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
+Nhóm được quản lý bởi [A-Play Community](https://www.google.com.vn/search?q=aplay) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
 Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
