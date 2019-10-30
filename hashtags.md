@@ -10,7 +10,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 
 | Hashtag            | Chủ đề, nội dung của bài viết                    |
 |--------------------|--------------------------------------------------|
-| #zaltv_hoidap     | Hỏi đáp, thắc mắc                                |
+| #aplay_hoidap     | Hỏi đáp, thắc mắc                                |
 | #zaltv_thaoluan   | Thảo luận về chủ đề nào đó                       |
 | #zaltv_chiase     | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
 | #zaltv_chiasecode | Chia sẻ (code ZalTV)                             |
