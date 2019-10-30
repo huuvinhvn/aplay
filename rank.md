@@ -2,7 +2,7 @@
 
 Những điều bạn cần biết về hệ thống xếp hạng thành viên
 
-## ZalTV Community Ranking hoạt động như thế nào?
+## A-Play Community Ranking hoạt động như thế nào?
 
 Bằng cách thu thập dữ liệu của nhóm trong 30 ngày gần nhất, ZalTV Community Ranking sẽ "chấm điểm" cho mọi tương tác của bạn với nhóm.
 
