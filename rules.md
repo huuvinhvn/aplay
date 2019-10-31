@@ -58,7 +58,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/aplay.communit
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
-- **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề, khiêu khích, gây hấn, video phản cảm.
+- **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề, khiêu khích, gây hấn, đăng video phản cảm.
 - Bình luận **PHẢI** liên quan tới nội dung bài viết.
 - **KHÔNG** bình luận trống (không có chữ nào) trong nội dung bài viết.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
