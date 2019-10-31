@@ -10,7 +10,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Vừa tham gia Facebook chưa được 6 tháng khi xin vào nhóm.
 - Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
-- Tài khoản không có tên hiển thị (Facebook ma), không có tên họ rõ ràng ( Chỉ chấp nhận tên có kèm biệt danh có tên họ rõ ràng, ví du: Lang Thang (Văn Tuấn) ) hoặc tên sử dụng ký tự đặc biệt, tên các cửa hàng.
+- Tài khoản không có tên hiển thị (Facebook ma),tên sử dụng ký tự đặc biệt, tên các cửa hàng, không có tên họ rõ ràng ( Chỉ chấp nhận tên có kèm biệt danh có tên họ rõ ràng, ví dụ: **Lang Thang (Văn Tuấn)** )
 -  Tài khoản không có ảnh đại diện hiển thị (Facebook ma).
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
