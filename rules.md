@@ -45,6 +45,8 @@ Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 
 ### VỀ HASHTAG
 
+Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
+
 Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv.vn/permalink/2415576318663967/) sử dụng hashtag:
 
 ![hashtag](https://i.postimg.cc/bwQkts1r/trogiup.png)
