@@ -62,7 +62,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/aplay.communit
 - Bình luận **PHẢI** liên quan tới nội dung bài viết.
 - **KHÔNG** bình luận trống (không có chữ nào) trong nội dung bài viết.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
-- **KHÔNG** "chấm" (".") hoặc "hóng" hoặc "phẩy" (",") hoặc "ba chấm" ("...") hay các câu có nghĩa tương tự có chứa các từ cấm này. Hãy dùng chức năng **"Bật thông báo cho bài viết"** hoặc **"Lưu bài viết"** nếu bạn muốn theo dõi cập nhật của bài viết.
+- **KHÔNG** "chấm" **(".")** hoặc "hóng" hoặc "phẩy" **(",")** hoặc "ba chấm" **("...")** hay các câu có nghĩa tương tự có chứa các từ cấm này. Hãy dùng chức năng **"Bật thông báo cho bài viết"** hoặc **"Lưu bài viết"** nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, hãy dùng chức năng **"Chỉnh sửa bình luận"** thay vì bình luận liên tiếp trong thời gian ngắn.
 - **KHÔNG** dẫn link page hoặc nhóm khác để câu kéo thành viên.
 
