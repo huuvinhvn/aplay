@@ -13,7 +13,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_hoidap     | Hỏi đáp, thắc mắc, tư vấn                               |
 | #aplay_thaoluan   | Thảo luận về chủ đề nào đó                       |
 | #aplay_chiase     | Chia sẻ (tài nguyên, link Fshare, GGDrive, Web phát thể thao có chất lượng tốt , v.v...) |
-| #aplay_chiasecode | Chia sẻ (code A-Play)                             |
+| #aplay_chiasecode | Chia sẻ (Code List A-Play), Code kích hoạt (Active)                             |
 | #aplay_chiaseiptv | Chia sẻ (list iptv)                              |
 | #aplay_thongbao   | Thông báo từ BQT                                 |
 | #aplay_locmem     | Thông báo lọc mem                                |
