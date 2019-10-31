@@ -18,14 +18,14 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_thongbao   | Thông báo từ BQT                                 |
 | #aplay_locmem     | Thông báo lọc mem                                |
 | #aplay_sukien     | Chia sẻ các sự kiện trò chơi ( Tặng tài khoản )                         |
-| #zaltv_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
-| #zaltv_ungdung    | Chia sẻ các ứng dụng hay                                 |
-| #zaltv_thugian    | Ảnh, video hoặc nội dung giải trí                |
-| #zaltv_huongdan   | Hướng dẫn cách sử dụng hoặc chia sẻ kiến thức      |
-| #zaltv_danhsachden| Thông báo thành viên hoặc bài viết vi phạm       |
-| #zaltv_baocao     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
-| #zaltv_gopy       | Góp ý cho Ban Quản Trị nhóm                      |
-| #zaltv_tintuc     | Tin tức các lĩnh vực thể thao, đời sống, v.v...                                |
+| #aplay_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
+| #aplay_ungdung    | Chia sẻ các ứng dụng hay                                 |
+| #aplay_thugian    | Ảnh, video hoặc nội dung giải trí                |
+| #aplay_huongdan   | Hướng dẫn cách sử dụng hoặc chia sẻ kiến thức      |
+| #aplay_danhsachden| Thông báo thành viên hoặc bài viết vi phạm       |
+| #aplay_baocao     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
+| #aplay_gopy       | Góp ý cho Ban Quản Trị nhóm                      |
+| #aplay_tintuc     | Tin tức các lĩnh vực thể thao, đời sống, v.v...                                |
 
 ## Các hashtag phụ (không bắt buộc)
 
