@@ -7,10 +7,11 @@
 ## NỘI QUY VỀ TÀI KHOẢN
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
-- Vừa tham gia Facebook được 3 tháng khi xin vào nhóm.
+- Vừa tham gia Facebook chưa được 6 tháng khi xin vào nhóm.
+- Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
-- Tài khoản không có tên hiển thị (Facebook ma), không có tên họ rõ ràng hoặc tên sử dụng ký tự đặc biệt.
--  Tài khoản không có avatar hiển thị (Facebook ma) hoặc avatar không phải người thật.
+- Tài khoản không có tên hiển thị (Facebook ma), không có tên họ rõ ràng hoặc tên sử dụng ký tự đặc biệt, tên các cửa hàng.
+-  Tài khoản không có ảnh đại diện hiển thị (Facebook ma).
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
 
