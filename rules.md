@@ -27,7 +27,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Nếu đăng bài viết về các list xem TV định dạng **M3U**, **TXT** hãy sử dụng các trang như [yamcode.com](https://yamcode.com/), [pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
-- **KHÔNG** chia sẻ App và code A-Play ra bên ngoài nhóm A-Play Community. Nếu phát hiện sẽ **BAN** vĩnh viễn.
+- **KHÔNG** chia sẻ **App** và **code A-Play** ra bên ngoài nhóm [A-Play Community](https://www.google.com.vn/search?q=aplay). Nếu phát hiện sẽ **BAN** vĩnh viễn.
 
 ### VỀ CHỦ ĐỀ
 
