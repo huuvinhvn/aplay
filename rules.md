@@ -63,7 +63,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv.vn/perma
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
-Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị **nhắc nhở**, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm mà không cần báo trước.
+Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị **NHẮC NHỞ**, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm mà không cần báo trước.
  
 ---
 
