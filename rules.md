@@ -52,9 +52,9 @@ Những bài viết không có **hashtag** đúng quy định hoặc tự ý "s�
 
 Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
 
-Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv.vn/permalink/2415576318663967/) sử dụng hashtag:
+Ví dụ về một [bài viết](https://www.facebook.com/groups/aplay.community/permalink/895696454148579/) sử dụng hashtag:
 
-![hashtag](https://i.postimg.cc/bwQkts1r/trogiup.png)
+![hashtag](https://i.imgur.com/QzNfLFE.png)
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
