@@ -36,10 +36,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 
 | Hashtag             | Chủ đề, nội dung của bài viết |
 |---------------------|-------------------------------|
-| #zaltv_sach       | Sách, PDF                     |
-| #zaltv_khoahoc      | Khóa học trực tuyến           |
-| #zaltv_phanmem    | Phần mềm                      |
-| #zaltv_phancung    | Phần cứng (trừ câu hỏi)       |
-| #zaltv_laptrinh | Lập trình                     |
+| #aplay_phim       | Tên các bộ phim hay                     |
+| #aplay_nhac      | Tên các bài nhạc, album hay           |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
