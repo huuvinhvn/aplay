@@ -26,7 +26,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_baocao     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
 | #aplay_gopy       | Góp ý cho Ban Quản Trị nhóm                      |
 | #aplay_tintuc     | Tin tức các lĩnh vực thể thao, đời sống, v.v...                                |
-| #aplay_yeucau     | Yêu cầu úp các nội dung giải trí như: Phim, Nhạc, vv.. ( Kèm hình ảnh hay link )      |
+| #aplay_yeucau     | Yêu cầu nhờ úp các nội dung giải trí như: Phim, Nhạc, vv.. ( Kèm hình ảnh hay link )      |
 | #aplay_suutam     | Các bài lượm lặt trên mạng                        |       
 
 ## Các hashtag phụ (không bắt buộc)
