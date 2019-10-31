@@ -13,10 +13,10 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_hoidap     | Hỏi đáp, thắc mắc, tư vấn                               |
 | #aplay_thaoluan   | Thảo luận về chủ đề nào đó                       |
 | #aplay_chiase     | Chia sẻ (tài nguyên, link Fshare, GGDrive, Web phát thể thao có chất lượng tốt , v.v...) |
-| #aplay_chiasecode | Chia sẻ (Code List A-Play), Code kích hoạt (Active)                             |
-| #aplay_chiaseiptv | Chia sẻ (list iptv)                              |
+| #aplay_chiasecode | Chia sẻ Code List A-Play, Code kích hoạt (Active)                             |
+| #aplay_chiaseiptv | Chia sẻ List IPTV, UDPXY                        |
 | #aplay_thongbao   | Thông báo từ BQT                                 |
-| #aplay_locmem     | Thông báo lọc mem                                |
+| #aplay_locmem     | Thông báo lọc thành viên                                |
 | #aplay_sukien     | Chia sẻ các sự kiện, trò chơi nhỏ ( Tặng tài khoản )                         |
 | #aplay_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
 | #aplay_ungdung    | Chia sẻ các ứng dụng hay                                 |
