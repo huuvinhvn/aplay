@@ -18,7 +18,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_thongbao   | Thông báo từ BQT                                 |
 | #aplay_locmem     | Thông báo lọc thành viên                                |
 | #aplay_sukien     | Chia sẻ các sự kiện, trò chơi nhỏ ( Tặng tài khoản )                         |
-| #aplay_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
+| #aplay_lich       | Chia sẻ lịch thi đấu các môn thể thao như: bóng đá, bóng rổ, tennis, v.v...           |
 | #aplay_ungdung    | Chia sẻ các ứng dụng hay                                 |
 | #aplay_thugian    | Ảnh, video hoặc nội dung giải trí, vui vẻ, chém gió                |
 | #aplay_huongdan   | Hướng dẫn cách sử dụng hoặc chia sẻ kiến thức      |
