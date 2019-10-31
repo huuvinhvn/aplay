@@ -22,7 +22,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - **KHÔNG** đăng bài viết quảng cáo, mua bán (rao vặt, bán sim,...). 
 - **KHÔNG** chia sẻ code **18+** hay bài viết có hình ảnh phản cảm công khai trên nhóm mà hãy tham gia nhóm chát để chia sẻ với nhau: [m.me/join/AbYZz-YQvSrxdQ3I](https://m.me/join/AbYZz-YQvSrxdQ3I)
 - Nếu đăng bài **hỏi đáp**, hãy **tìm hiểu trước qua Google** hay các chủ đề có trong nhóm để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
-- Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
+- Dùng chức năng **tìm kiếm bài viết** trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về các list xem TV định dạng **M3U**, **TXT** hãy sử dụng các trang như [yamcode.com](https://yamcode.com/), [pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
@@ -53,22 +53,22 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv.vn/perma
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
-- **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
+- **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề, video phản cảm.
 - Bình luận **PHẢI** liên quan tới nội dung bài viết.
 - **KHÔNG** bình luận trống (không có chữ nào) trong nội dung bài viết.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
-- **KHÔNG** "chấm" (".") hoặc "hóng" hoặc "phẩy" (",") hoặc "ba chấm" ("...") hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
-- **KHÔNG** spam, hãy dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
+- **KHÔNG** "chấm" (".") hoặc "hóng" hoặc "phẩy" (",") hoặc "ba chấm" ("...") hay các câu có nghĩa tương tự có chứa các từ cấm này. Hãy dùng chức năng **"Bật thông báo cho bài viết"** hoặc **"Lưu bài viết"** nếu bạn muốn theo dõi cập nhật của bài viết.
+- **KHÔNG** spam, hãy dùng chức năng **"Chỉnh sửa bình luận"** thay vì bình luận liên tiếp trong thời gian ngắn.
 - **KHÔNG** dẫn link page hoặc nhóm khác để câu kéo thành viên.
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
-Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm mà không cần báo trước.
+Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị **nhắc nhở**, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm mà không cần báo trước.
  
 ---
 
-Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo tới quản trị viên" hoặc tag thành viên BQT vào bài viết đó.
+Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng **"Báo cáo tới quản trị viên"** hoặc **tag** thành viên BQT vào bài viết đó cho BQT nhanh chóng xử lý.
 
-Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
+Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua **Inbox** hay **Email** cá nhân.
 
-**Chú ý**: Nội quy sẽ được sửa đổi, cập nhật 22/02/2019
+**Chú ý**: Nội quy sẽ còn được sửa đổi để phù hợp với nhóm, cập nhật 1/11/2019
