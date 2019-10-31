@@ -45,6 +45,8 @@ Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 
 ### VỀ HASHTAG
 
+Mọi bài viết trong nhóm [A-Play Community](https://www.google.com.vn/search?q=aplay) đều phải kèm một **hashtag** để phân loại về nội dung bài viết.
+Những bài viết không có **hashtag** đúng quy định hoặc tự ý "sáng tác" **hashtag** sẽ bị xóa mà không cần báo trước!
 Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
 
 Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv.vn/permalink/2415576318663967/) sử dụng hashtag:
