@@ -3,30 +3,29 @@
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [A-Play Community](https://www.facebook.com/groups/aplay.community) yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
 **Lưu ý:**
-- Mọi hashtag phải bắt đầu bằng `aplay_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
-- Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
+- Mọi hashtag phải bắt đầu bằng `aplay_` (giống như namespace) để tránh ảnh hưởng của **hashtag** trên các bài viết bên ngoài nhóm.
+- Bạn có thể dùng nhiều **hashtag** trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
 
 ## Các hashtag chính (bắt buộc)
 
 | Hashtag            | Chủ đề, nội dung của bài viết                    |
 |--------------------|--------------------------------------------------|
 | #aplay_hoidap     | Hỏi đáp, thắc mắc                                |
-| #zaltv_thaoluan   | Thảo luận về chủ đề nào đó                       |
-| #zaltv_chiase     | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
-| #zaltv_chiasecode | Chia sẻ (code ZalTV)                             |
-| #zaltv_chiaseiptv | Chia sẻ (list iptv)                              |
-| #zaltv_thongbao   | Thông báo từ BQT                                 |
-| #zaltv_locmem     | Thông báo lọc mem                                |
-| #zaltv_sukien     | Chia sẻ các sự kiện                              |
+| #aplay_thaoluan   | Thảo luận về chủ đề nào đó                       |
+| #aplay_chiase     | Chia sẻ (tài nguyên, link Fshare, GGDrive, Web phát thể thao có chất lượng tốt , v.v...) |
+| #aplay_chiasecode | Chia sẻ (code A-Play)                             |
+| #aplay_chiaseiptv | Chia sẻ (list iptv)                              |
+| #aplay_thongbao   | Thông báo từ BQT                                 |
+| #aplay_locmem     | Thông báo lọc mem                                |
+| #aplay_sukien     | Chia sẻ các sự kiện trò chơi ( Tặng tài khoản )                         |
 | #zaltv_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
-| #zaltv_ungdung    | Chia sẻ ứng dụng                                 |
+| #zaltv_ungdung    | Chia sẻ các ứng dụng hay                                 |
 | #zaltv_thugian    | Ảnh, video hoặc nội dung giải trí                |
-| #zaltv_huongdan   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
+| #zaltv_huongdan   | Hướng dẫn cách sử dụng hoặc chia sẻ kiến thức      |
 | #zaltv_danhsachden| Thông báo thành viên hoặc bài viết vi phạm       |
 | #zaltv_baocao     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
 | #zaltv_gopy       | Góp ý cho Ban Quản Trị nhóm                      |
-| #zaltv_tintuc     | Tin tức, cập nhật                                |
-| #zaltv_tuyendung  | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền     |
+| #zaltv_tintuc     | Tin tức các lĩnh vực thể thao, đời sống, v.v...                                |
 
 ## Các hashtag phụ (không bắt buộc)
 
@@ -41,3 +40,4 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #zaltv_laptrinh | Lập trình                     |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
+0
