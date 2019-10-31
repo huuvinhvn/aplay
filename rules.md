@@ -20,7 +20,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 ### VỀ NỘI DUNG
 - Sử dụng tiếng Việt, có dấu, tránh viết tắt, viết hoa hết cả bài. Tuyệt đối **KHÔNG** được sử dụng teen code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
 - Sử dụng **hashtag** để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần về [hashtag](hashtags.md).
-- **KHÔNG** đăng bài viết quảng cáo, mua bán (rao vặt, bán sim,...). 
+- **KHÔNG** đăng bài viết quảng cáo, hỏi mua và bán kèm giá cả (rao vặt, bán sim,...). 
 - **KHÔNG** chia sẻ code **18+** hay bài viết có hình ảnh phản cảm công khai trên nhóm mà hãy tham gia nhóm chát để chia sẻ với nhau: [m.me/join/AbYZz-YQvSrxdQ3I](https://m.me/join/AbYZz-YQvSrxdQ3I)
 - Nếu đăng bài **hỏi đáp**, hãy **tìm hiểu trước qua Google** hay các chủ đề có trong nhóm để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
 - Dùng chức năng **tìm kiếm bài viết** trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
@@ -32,7 +32,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [A-Play Community](https://facebook.com/groups/aplay.community) nên ưu tiên chủ đề về chia sẻ code Aplay, bóng đá, phim, v.v... Chấp nhận các bài giải trí (miễn là không quá nhảm).
+Nhóm được quản lý bởi [A-Play Community](https://facebook.com/groups/aplay.community) nên ưu tiên chủ đề về chia sẻ code **A-Play**, bóng đá, phim, v.v... Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
 Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
