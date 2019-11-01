@@ -7,4 +7,4 @@ Những điều mà bạn cần biết nếu muốn tham gia [A-Play Community](
 - [Nội quy nhóm](rules.md)
 - [Danh sách hashtag](hashtags.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
-- [Tra cứu thứ hạng](https://)(close)
+- [Tra cứu thứ hạng](https://) (close)
