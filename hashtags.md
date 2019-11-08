@@ -38,5 +38,6 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 |---------------------|-------------------------------|
 | #aplay_phim       | Tên các bộ phim hay                     |
 | #aplay_nhac      | Tên các bài nhạc, album hay           |
+| #aplay_dudoan      | Dự đoán kết quả các môn thể thao           |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
