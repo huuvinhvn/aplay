@@ -1,4 +1,4 @@
-# HỆ THỐNG XẾP HẠNG THÀNH VIÊN TRONG NHÓM
+# HỆ THỐNG CÁC TÍNH ĐIỂM XẾP HẠNG THÀNH VIÊN TRONG NHÓM
 
 Những điều bạn cần biết về hệ thống xếp hạng thành viên
 
