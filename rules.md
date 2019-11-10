@@ -1,4 +1,4 @@
-![A-Play Community](https://i.imgur.com/zI3AtQA.jpg)
+![A-Play Community](https://i.imgur.com/LWWpamB.jpg)
 
 # NỘI QUY NHÓM A-PLAY COMMUNITY
 
