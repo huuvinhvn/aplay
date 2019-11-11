@@ -29,7 +29,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_yeucau     | Yêu cầu nhờ úp các nội dung giải trí như: Phim, Nhạc, vv.. ( Kèm hình ảnh hay link )      |
 | #aplay_baoloi     | Báo các lỗi khi sử dụng App A-Play                      | 
 | #aplay_suutam     | Các bài lượm lặt trên mạng                        |       
-| #aplay_release    | Bản phát hành ứng dụng
+
 ## Các hashtag phụ (không bắt buộc)
 
 Đây là các hashtag nhỏ để bổ sung cho các hashtag chính giúp phân loại bài viết ra nhiều chủ đề con.
