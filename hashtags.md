@@ -17,7 +17,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #aplay_chiaseiptv | Chia sẻ List IPTV, UDPXY                        |
 | #aplay_thongbao   | Thông báo từ BQT                                 |
 | #aplay_locmem     | Thông báo lọc thành viên                                |
-| #aplay_sukien     | Chia sẻ các sự kiện, trò chơi nhỏ ( Tặng tài khoản )                         |
+| #aplay_sukien     | Chia sẻ các sự kiện, trò chơi nhỏ ( Tặng quà)                         |
 | #aplay_lich       | Chia sẻ lịch thi đấu các môn thể thao như: Bóng đá, bóng rổ, tennis, v.v...           |
 | #aplay_ungdung    | Chia sẻ các ứng dụng hay                                 |
 | #aplay_thugian    | Ảnh, video hoặc nội dung giải trí, vui vẻ, chém gió                |
