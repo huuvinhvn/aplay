@@ -8,3 +8,6 @@ Những điều mà bạn cần biết nếu muốn tham gia [A-Play Community](
 - [Danh sách hashtag](hashtags.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
 - [Tra cứu thứ hạng](https://) (close)
+
+===================================================================================================================
+# A-Play Support
