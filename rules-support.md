@@ -45,7 +45,7 @@ Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 
 ### VỀ HASHTAG
 
-Mọi bài viết trong nhóm [A-Play Community](https://facebook.com/groups/aplay.community) đều phải kèm một **hashtag** để phân loại về nội dung bài viết.
+Mọi bài viết trong nhóm [A-Play Support](https://facebook.com/groups/aplay.community) đều phải kèm một **hashtag** để phân loại về nội dung bài viết.
 
 Những bài viết không có **hashtag** đúng quy định hoặc tự ý "sáng tác" **hashtag** sẽ bị xóa mà không cần báo trước!
 
