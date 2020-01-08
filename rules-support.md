@@ -73,6 +73,4 @@ Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị **N
 
 Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng **"Báo cáo tới quản trị viên"** hoặc **tag** thành viên BQT vào bài viết đó cho BQT nhanh chóng xử lý.
 
-Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua **Inbox** hay **Email** cá nhân.
-
 **Chú ý**: Nội quy sẽ được sửa đổi, cập nhật 1/8/2020
