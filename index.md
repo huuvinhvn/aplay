@@ -11,3 +11,5 @@ Những điều mà bạn cần biết nếu muốn tham gia [A-Play Community](
 
 ==================================================================================
 # A-Play Support
+
+Những điều mà bạn cần biết nếu muốn tham gia [A-Play Support](https://facebook.com/groups/aplay.support)
