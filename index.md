@@ -14,4 +14,4 @@ Những điều mà bạn cần biết nếu muốn tham gia [A-Play Community](
 
 Những điều mà bạn cần biết nếu muốn tham gia [A-Play Support](https://facebook.com/groups/aplay.support)
 
-- [Nội quy nhóm](rules.md)
+- [Nội quy nhóm](rules-support.md)
